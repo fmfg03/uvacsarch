@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://uvacomputerscience.com/sitemap.xml
+Sitemap: https://www.uvacomputerscience.com/sitemap.xml
